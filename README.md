@@ -1,4 +1,4 @@
-# BookStore Console Application
+# Bookstore Window Manager
 
 This simple Java console application consists of three classes - `BookStoreWindowIO`, `Book`, and `BookStoreWindow`. Together, they allow users to manage a bookstore by performing various operations. The application provides a menu-driven interface for the user to interact with the program. Below is an overview of each class:
 
